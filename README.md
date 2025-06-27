@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gary Daniel (hmg yoo) — he/him
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:3A3A3A,100:0D1117&height=200&section=header&text=Hey%20there!%20I'm%20Gary👨🏻‍💻&fontSize=35&fontColor=F2F2F2&animation=twinkling)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:3A3A3A,100:0D1117&height=200&section=header&text=Hey%20there!%20I'm%20Hmgyoo👨🏻‍💻&fontSize=35&fontColor=F2F2F2&animation=twinkling)
 
 ## 🧠 About Me
 

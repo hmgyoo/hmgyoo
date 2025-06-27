@@ -38,5 +38,5 @@ I'm a **software engineer** based in the **Philippines**.
 
 ## 📫 Let's Connect!
 
-- 💼 LinkedIn: [garydanielddx](https://www.linkedin.com/in/garydanielddx)
+- 💼 LinkedIn: [garydanielddx](https://www.linkedin.com/in/gary-daniel-erno/)
 

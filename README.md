@@ -1,7 +1,7 @@
 <h1 align="center">hey, i'm gary</h1>
 
 <p align="center">
-  <i>i write code that ships. mostly mobile. sometimes web. rarely broken.</i>
+  <i>i write code that ships. mostly mobile. sometimes web. i don't know what i'm doing sometimes.</i>
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 ## 🛠 what i do
 
 - build apps with **React Native** and **React**
-- write clean code, sometimes clever, always maintainable
+- write clean code, sometimes clever, mostly broken
 - break things. then fix them better
-- drink too much coffee and rename variables for fun
+- drink too much coffee and rewrite if else into ternary conditions
 
 ---
 

@@ -1,42 +1,51 @@
-# 👋 Hi, I'm Gary Daniel (hmg yoo) — he/him
+<h1 align="center">hey, i'm gary</h1>
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:3A3A3A,100:0D1117&height=200&section=header&text=Hey%20there!%20I'm%20Hmgyoo👨🏻‍💻&fontSize=35&fontColor=F2F2F2&animation=twinkling)
+<p align="center">
+  <i>i write code that ships. mostly mobile. sometimes web. rarely broken.</i>
+</p>
 
-## 🧠 About Me
-
-I'm a **software engineer** based in the **Philippines**.
-
-- 🛠️ Mainly working with **React Native** and **React**
-- 💡 Side projects in **Flutter**, **Python**, and **Java**
-- ☕ Coffee-driven coder. Where *is* my coffee?
-
----
-
-## 🔧 Tech Stack
-
-### Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Web & Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 Notable Projects
+## 🛠 what i do
 
-📌 **[Spoiler-Alert](https://github.com/hmgyoo/Spoiler-Alert)** — Food Spoilage Detection app  
-📌 **[Shapii-Delivery](https://github.com/hmgyoo/Shapii-Delivery)** — A fake store app with React Native + FakeStoreAPI  
-📌 **[ManggaGo](https://github.com/hmgyoo/ManggaGo)** — Identifying mango leaf diseases with Tensorflow  
-📌 **[Health Declaration App](https://github.com/hmgyoo/Health-Declaration-App---PLM)** — Flutter-based health app for campus use
+- build apps with **React Native** and **React**
+- write clean code, sometimes clever, always maintainable
+- break things. then fix them better
+- drink too much coffee and rename variables for fun
 
 ---
 
-## 📫 Let's Connect!
+## ⚙️ projects worth checking
 
-- 💼 LinkedIn: [garydanielddx](https://www.linkedin.com/in/gary-daniel-erno/)
+- [Spoiler-Alert](https://github.com/hmgyoo/Spoiler-Alert) – food spoilage detector
+- [Shapii-Delivery](https://github.com/hmgyoo/Shapii-Delivery) – fake ecommerce built on FakeStoreAPI + RN
+- [ManggaGo](https://github.com/hmgyoo/ManggaGo) – mango leaf disease classifier w/ tensorflow
+- [Health Declaration App](https://github.com/hmgyoo/Health-Declaration-App---PLM) – school project, but clean
 
+---
+
+## 📈 github stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hmgyoo&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hmgyoo&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 📫 find me here
+
+- 🐦 [@hmgyooisbusy](https://twitter.com/hmgyooisbusy)
+- 📸 [@thisishmgyoo](https://instagram.com/thisishmgyoo)
+
+---
+
+<p align="center"><i>“where’s my coffee?” — me, every day</i></p>

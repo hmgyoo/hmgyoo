@@ -1,7 +1,7 @@
 # Hi 👋, I'm Gary
 
 A mobile-focused developer with experience in both Android and iOS.  
-Currently building things using **React Native**, **React**, and **Firebase**.
+Currently building things using **React Native** and **React**.
 
 ---
 

@@ -31,8 +31,8 @@ Currently building things using **React Native**, **React**, and **Firebase**.
 ## 🎯 Currently
 
 - Focused on shipping features with **React Native**  
-- Exploring hobby projects involving **YOLOv8 + Python + Firebase**  
-- Improving my workflow and systems one commit at a time
+- In my running era (I need that Evo SL bruh)
+- Dedicated to clocking in and out of work IN TIME 
 
 ---
 

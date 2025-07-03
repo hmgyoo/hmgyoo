@@ -1,51 +1,43 @@
-<h1 align="center">hey, i'm gary</h1>
+# Hi 👋, I'm Gary
 
-<p align="center">
-  <i>i write code that ships. mostly mobile. sometimes web. i don't know what i'm doing sometimes.</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</p>
+A mobile-focused developer with experience in both Android and iOS.  
+Currently building things using **React Native**, **React**, and **Firebase**.
 
 ---
 
-## 🛠 what i do
+## 🚀 What I'm Working With
 
-- build apps with **React Native** and **React**
-- write clean code, sometimes clever, mostly broken
-- break things. then fix them better
-- drink too much coffee and rewrite if else into ternary conditions
+- 🧠 Writing code in:  
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square)](https://dart.dev/)
+  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
+  [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)](https://isocpp.org/)
 
----
+- 📱 Platforms & Frameworks:  
+  [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=flat-square)](https://reactnative.dev/)
+  [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)](https://reactjs.org/)
+  [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)](https://flutter.dev/)
+  [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)](https://firebase.google.com/)
+  [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat-square)](https://developer.android.com/)
+  [![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=flat-square)](https://developer.apple.com/ios/)
 
-## ⚙️ projects worth checking
-
-- [Spoiler-Alert](https://github.com/hmgyoo/Spoiler-Alert) – food spoilage detector
-- [Shapii-Delivery](https://github.com/hmgyoo/Shapii-Delivery) – fake ecommerce built on FakeStoreAPI + RN
-- [ManggaGo](https://github.com/hmgyoo/ManggaGo) – mango leaf disease classifier w/ tensorflow
-- [Health Declaration App](https://github.com/hmgyoo/Health-Declaration-App---PLM) – school project, but clean
-
----
-
-## 📈 github stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hmgyoo&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hmgyoo&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+- 🔧 Tools & Extras:  
+  [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)](https://git-scm.com/)
+  [![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6F00?logo=ultralytics&logoColor=white&style=flat-square)](https://docs.ultralytics.com/)
+  [![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=flat-square)](https://www.arduino.cc/)
 
 ---
 
-## 📫 find me here
+## 🎯 Currently
 
-- 🐦 [@hmgyooisbusy](https://twitter.com/hmgyooisbusy)
-- 📸 [@thisishmgyoo](https://instagram.com/thisishmgyoo)
+- Focused on shipping features with **React Native**  
+- Exploring hobby projects involving **YOLOv8 + Python + Firebase**  
+- Improving my workflow and systems one commit at a time
 
 ---
 
-<p align="center"><i>“where’s my coffee?” — me, every day</i></p>
+## ☕ Let's Connect
+
+- LinkedIn: [Gary Daniel Erno](https://www.linkedin.com/in/gary-daniel-erno/)  
+- Fun fact: *I'm usually asking — where's my coffee?*
+

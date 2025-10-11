@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gary</h1>
+<h1 align="center">Hi 👋, I'm **y u**</h1>
 <h3 align="center">A Software Developer from the Philippines 🇵🇭</h3>
 
 💻 I build modern, scalable mobile and web applications.  

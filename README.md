@@ -25,9 +25,9 @@
 ---
 
 ### 📄 About Me
-🎓 Computer Engineering Graduate at Pamantasan ng Lungsod ng Maynila  
-📱 Currently working as a **Mobile Developer Lead** at **Xure Deal PTE LTD**  
-🧠 Passionate about creating seamless app experiences and exploring DevOps  
+🎓 Computer Engineering Graduate at Pamantasan ng Lungsod ng Maynila.  
+📱 Currently working as a **Software Developer** at a startup company and doing commissions on the side. 
+🧠 Passionate about creating solutions for modern problems, and enjoying my life after shifts.  
 
 ---
 

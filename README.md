@@ -6,6 +6,7 @@
 💬 Ask me about **React Native** and **Flutter**  
 📫 Reach me at **ernogarydaniel@gmail.com**  
 ⚡ Fun fact: I’m currently in my *running era* 🏃‍♂️  
+I super adore Tu Tontawan!
 
 ---
 

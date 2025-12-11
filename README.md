@@ -1,36 +1,49 @@
-<h1 align="center">Hi 👋, I'm y u</h1>
-<h3 align="center">A Software Developer from the Philippines 🇵🇭</h3>
+# Hi 👋, I'm y u
 
-💻 I build modern, scalable mobile and web applications  
-🌱 Currently learning **Next.js, Express, and Supabase**  
-💬 Ask me about **React Native** and **Flutter**  
-📫 Reach me at **ernogarydaniel@gmail.com**  
-⚡ Fun fact: I'm currently in my *running era* 🏃‍♂️ & enjoy Thai dramas in my free time  
+### 🇵🇭 Software Developer | Mobile & Web Enthusiast
+
+I build **modern, scalable mobile and web applications** and am currently passionate about learning full-stack development.
 
 ---
 
-### 🧰 Tech Stack
+## 🌱 Learning & Focus
+
+I am currently focusing on and building projects with:
+* **Next.js**
+* **Express.js**
+* **Supabase (BaaS)**
+
+---
+
+## 💻 Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Mobile** | **React Native**, **Flutter**, Java, Android Studio, Xcode |
+| **Web** | JavaScript, React, Next.js, Express.js |
+| **Backend/Database** | Supabase |
+| **Other Languages** | Python, **C++**, C, **Java** |
+| **Embedded** | **Arduino** |
+
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://supabase.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" alt="supabase" width="40" height="40"/></a>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Native" width="40" height="40"/></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" alt="Supabase" width="40" height="40"/></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
 </p>
 
 ---
 
-### 📄 About Me
-🎓 Computer Engineering Graduate at Pamantasan ng Lungsod ng Maynila  
-📱 Currently working as a **Software Developer** at a startup company  
-🌟 Passionate about creating clean, efficient solutions and finding inspiration in everyday life  
-🎬 When not coding, you'll find me running, exploring new tech, or enjoying international series  
+## 🌟 Fun Facts & Connect
 
----
+* **Ask me about:** **React Native** and **Flutter** development.
+* **Reach me at:** **ernogarydaniel@gmail.com**
+* **Fun fact:** I'm in my **running era** 🏃‍♂️ and enjoy Thai dramas!
 
-### 🌐 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/garydanielerno" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gary daniel erno" height="30" width="40" />
